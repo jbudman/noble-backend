@@ -1,0 +1,8 @@
+{
+  "Parameters": {
+    "REGION": "us-east-1",
+    "MAILS3BUCKET": "cameronjordanemails",
+    "LI_EMAIL": "camerondotjordan@gmail.com",
+    "LI_PASS": "Wordofmouth22"
+  }
+}
